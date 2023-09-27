@@ -9,7 +9,7 @@
 
 # AIM: - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
-## Tools Used: Microsoft Excel, SQL
+## Tools Used: Microsoft Excel & SQL
 
 ## Step 1: Data Modelling
 
@@ -19,10 +19,10 @@
 
 ## Step 2: Data Cleaning
 ### Tasks Performed:
-1) **Handling Null Values**: The first task was to identify and remove any Null (missing) values within the Excel sheet. Null values can lead to erroneous analysis results, so it was imperative to eliminate them to maintain data integrity.
-2) **Removing Unnecessary Tables**: To streamline our dataset and focus on relevant information, I removed extraneous tables and data that were not pertinent to our analysis objectives. This step helped declutter the dataset and improve overall clarity.
-3) **Addressing Formatting Inconsistencies**: I addressed any uneven formatting issues within the data. This included standardizing date formats, text capitalization, and ensuring uniform units of measurement where applicable. Consistent formatting is essential for accurate analysis.
-4) **Final Data Validation**: Before proceeding to the analysis phase, I conducted a final comprehensive check on the cleaned data to ensure that it was in an optimal state for analysis. This validation step involved confirming data consistency, accuracy, and completeness.
+1. **Handling Null Values**: The first task was to identify and remove any Null (missing) values within the Excel sheet. Null values can lead to erroneous analysis results, so it was imperative to eliminate them to maintain data integrity.
+2.  **Removing Unnecessary Tables**: To streamline our dataset and focus on relevant information, I removed extraneous tables and data that were not pertinent to our analysis objectives. This step helped declutter the dataset and improve overall clarity.
+3.  **Addressing Formatting Inconsistencies**: I addressed any uneven formatting issues within the data. This included standardizing date formats, text capitalization, and ensuring uniform units of measurement where applicable. Consistent formatting is essential for accurate analysis.
+4.  **Final Data Validation**: Before proceeding to the analysis phase, I conducted a final comprehensive check on the cleaned data to ensure that it was in an optimal state for analysis. This validation step involved confirming data consistency, accuracy, and completeness.
 
 Find the cleaned Datasets attached Below-
 [Cleaned Datasets](https://drive.google.com/drive/folders/1JOXaWKpmd8M4cUwrgAOjvHmIMHulMSwI)
@@ -33,9 +33,9 @@ In this phase, we proceeded to create a comprehensive and integrated dataset by 
 
 To achieve this, we followed a systematic approach:
 
-1) We utilized the Reaction table as the base table, as it contains core data for our analysis.
-2) Next, we employed the "VLOOKUP" formula to join and incorporate pertinent columns from the Content dataset. This step allowed us to enrich our dataset with additional content-related information.
-3) Following that, we extended our dataset by incorporating relevant data from the Reaction Types dataset, again utilizing the "VLOOKUP" formula. This enhanced our dataset with valuable insights into various reaction types.
+1. We utilized the Reaction table as the base table, as it contains core data for our analysis.
+2. Next, we employed the "VLOOKUP" formula to join and incorporate pertinent columns from the Content dataset. This step allowed us to enrich our dataset with additional content-related information.
+3. Following that, we extended our dataset by incorporating relevant data from the Reaction Types dataset, again utilizing the "VLOOKUP" formula. This enhanced our dataset with valuable insights into various reaction types.
 
 ## Step 4: Determining the Top 5 Performing Categories
 
@@ -43,8 +43,8 @@ Our primary goal in this phase was to identify the top-performing content catego
 
 The outcome of this phase is a single, well-structured spreadsheet that encompasses:
 
-1) A thoroughly cleaned and integrated dataset, free from inconsistencies or missing values.
-2) A clear identification of the top 5 performing content categories based on their total scores.
+1. A thoroughly cleaned and integrated dataset, free from inconsistencies or missing values.
+2. A clear identification of the top 5 performing content categories based on their total scores.
 
 #### This consolidated dataset and the insights into the top-performing categories will serve as the foundation for our subsequent data analysis and visualization efforts, allowing us to make informed decisions and provide valuable recommendations to our client, Social Buzz.
 
@@ -61,7 +61,7 @@ Following the identification of the top 5 performing content categories, the nex
 ![Pie chart](https://github.com/Ameya1393/Social-Buzz-Data-Analysis/assets/84855509/4fbea212-de1c-4246-8c0f-1d9e7dca2f51)
 
 ## Conclusion -
-### 1) Animals and science are the two most popular categories of content, showing that people enjoy real life and factual content the most.
-### 2) Food is a common theme with the top 5 categories with healthy eating ranking the highest. Social Buzz can use this insight to create a campaign and work with healthy eating brands to boost user engagements.
+### 1. Animals and science are the two most popular categories of content, showing that people enjoy real-life and factual content the most.
+### 2. Food is a common theme in the top 5 categories with healthy eating ranking the highest. Social Buzz can use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
 
