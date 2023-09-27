@@ -10,4 +10,12 @@ react to content, spanning beyond the traditional reactions of likes, dislikes, 
 This ensures that trending content, as opposed to individual users, is at the forefront of user
 feeds. 
 
-## Scenario : Our team of dedicated professionals at Accenture has been tasked with analyzing and visualizing data for Social Buzz. This documentation serves as a comprehensive resource to understand the project's objectives, methodologies, and outcomes.
+## Scenario: Our team of dedicated professionals at Accenture has been tasked with analyzing and visualizing data for Social Buzz. This documentation serves as a comprehensive resource to understand the project's objectives, methodologies, and outcomes.
+
+# AIM: - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+
+## Tools Used: Microsoft Excel, SQL
+
+### So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
+
+### Data Model - [Data Model Link](https://drive.google.com/drive/folders/17Z_Ypx7xBC9h_RBYq64LiKekYYcjrX4T)
