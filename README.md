@@ -11,6 +11,18 @@
 
 ## Tools Used: Microsoft Excel, SQL
 
-### So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
+## Step 1: Data Modelling
 
 ### Data Model - [Data Model Link](https://drive.google.com/drive/folders/17Z_Ypx7xBC9h_RBYq64LiKekYYcjrX4T)
+
+### -> After a thorough review of the data model, it has become evident that merging three key tables—Reaction, Content, and Reaction Types—is essential to categorize the top 5 most popular categories effectively. 
+
+## Step 2: Data Cleaning
+### Tasks Performed:
+1) **Handling Null Values**: The first task was to identify and remove any Null (missing) values within the Excel sheet. Null values can lead to erroneous analysis results, so it was imperative to eliminate them to maintain data integrity.
+2) **Removing Unnecessary Tables**: To streamline our dataset and focus on relevant information, I removed extraneous tables and data that were not pertinent to our analysis objectives. This step helped declutter the dataset and improve overall clarity.
+3) **Addressing Formatting Inconsistencies**: I addressed any uneven formatting issues within the data. This included standardizing date formats, text capitalization, and ensuring uniform units of measurement where applicable. Consistent formatting is essential for accurate analysis.
+4) **Final Data Validation**: Before proceeding to the analysis phase, I conducted a final comprehensive check on the cleaned data to ensure that it was in an optimal state for analysis. This validation step involved confirming data consistency, accuracy, and completeness.
+
+
+
